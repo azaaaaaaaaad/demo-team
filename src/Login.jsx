@@ -52,17 +52,6 @@ const Login = () => {
               Sign in
             </button>
           </div>
-          <p className="px-6 text-sm text-center dark:text-gray-600">
-            Don't have an account yet?
-            <a
-              rel="noopener noreferrer"
-              href="#"
-              className="hover:underline dark:text-violet-600"
-            >
-              Sign up
-            </a>
-            .
-          </p>
         </div>
       </form>
     </div>
